@@ -9,8 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install pynput
-        run: pip install pynput
       
     - name: make all
       run:  make all
