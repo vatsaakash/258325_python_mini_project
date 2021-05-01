@@ -1,0 +1,16 @@
+name: python-build
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install pynput
+        run: pip install pynput
+      
+    - name: make all
+      run:  make all
