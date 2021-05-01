@@ -22,7 +22,3 @@ ___
 ```
 python key_logger.py
 ```
-### Automatic Installation and running the file.
-```
-$ make all 
-```
