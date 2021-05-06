@@ -1,12 +1,10 @@
 """
-
   file key_logger.py
   author Akash Ranjan (https://github.com/vatsaakash/)
   brief
   version 1.0
   date 2021-05-01
   copyright Copyright (c) 2021
-  
 """
 
 import os
