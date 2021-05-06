@@ -1,6 +1,6 @@
 # Images of running project
 
-#### RUN
+### RUN
 ![Output1](img/img0.JPG)
 #### Files before running of python file
 ![Output2](img/img2.JPG)
