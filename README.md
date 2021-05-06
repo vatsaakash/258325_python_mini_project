@@ -6,7 +6,7 @@
 *   We have replaced the `space` key with a blank space.
 # Requirement
 *   For this project we need to install a python library called`pynput`
-### Installation
+## Installation
 ```
 pip install pynput
 ```
