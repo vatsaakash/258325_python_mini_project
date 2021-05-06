@@ -11,7 +11,7 @@
 pip install pynput
 ```
 ## Run
-### Manual Installation and running the file.
+### Manual Installation and running the file
 ```
 python key_logger.py
 ```
