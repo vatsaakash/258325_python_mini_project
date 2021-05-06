@@ -7,11 +7,11 @@
 ## Requirement
 *   For this project we need to install a python library called`pynput`
 ## Installation
-```
+```python
 pip install pynput
 ```
 ## Run
 ### Manual Installation and running the file
-```
+```python
 python key_logger.py
 ```
