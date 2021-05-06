@@ -4,7 +4,7 @@
 *   In this program text file is named as `key_logger_log.txt` and we are using it in append mode.
 *   After every `10` keystrokes the key is being written in the txt file.
 *   We have replaced the `space` key with a blank space.
-# Requirement
+## Requirement
 *   For this project we need to install a python library called`pynput`
 ## Installation
 ```
